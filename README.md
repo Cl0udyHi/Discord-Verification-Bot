@@ -28,7 +28,7 @@ A Discord bot designed to verify new Discord members by linking their Discord ac
      ```env
      BOT_TOKEN=<YOUR_BOT_TOKEN>
      ```
-   - Add your server ID, bot ID, and verification role ID:
+   - Add your server ID, bot ID, and verification role ID in the `data.json` file:
      ```json
      {
        "guild_id": "<SERVER_ID>",
