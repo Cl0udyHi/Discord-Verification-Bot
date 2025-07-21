@@ -1,6 +1,6 @@
 # Discord Verification Bot
 
-A TypeScript-powered Discord bot designed to verify new Discord members by linking their Discord accounts with their Minecraft accounts.
+A Discord bot designed to verify new Discord members by linking their Discord accounts with their Minecraft accounts.
 
 ## Features
 
